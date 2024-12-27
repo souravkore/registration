@@ -21,7 +21,7 @@ import { CommonModule } from '@angular/common';
     FormsModule,
     ReactiveFormsModule,
     HttpClientModule,
-    CommonModule
+    CommonModule 
   ],
   providers: [
     provideClientHydration()

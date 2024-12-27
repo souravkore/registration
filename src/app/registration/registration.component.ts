@@ -43,4 +43,4 @@ export class RegistrationComponent {
   closeModal() {
     this.formSubmitted = false;  // Close the modal
   }
-}
+} 

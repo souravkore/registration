@@ -28,5 +28,5 @@ export class LoginComponent {
   }
   closeLoginModal() {
     this.loginSubmitted = false;  // Close the modal
-  }
+  } 
 }
